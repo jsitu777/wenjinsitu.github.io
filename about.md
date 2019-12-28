@@ -1,5 +1,5 @@
 ---
-title: About
+title: Projects
 layout: post
 headerImage: false
 author: Wenjin Situ
@@ -28,6 +28,12 @@ engineering. Currently he is working on modular technology for multi-family proj
 <h2>Projects</h2>
 
 <ul>
+
+![Markdowm Image][1]
+
+[1]: assets/images/Jim.jpg
+
+
 
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
 
