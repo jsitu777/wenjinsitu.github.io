@@ -1,6 +1,8 @@
 # main text of home
 name: Wenjin (Jim) Situ
-bio: Jim is a Structural Engineer in San Francisco
+bio: Jim is a structural engineer in San Francisco. He received his bachelor degree
+from UC San Diego and his master degree from Stanford University, both in structural
+engineering. Currently he is working on modular technology for multi-family projects.
 
 # twitter summary info
 description: A blog for professional presentation
@@ -14,10 +16,9 @@ picture: assets/images/Jim.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/PDFs/Wenjin(Jim) Situ's CV.pdf
 
 url: http://wenjinsitu.github.io/
-
 
 permalink: /:title/
 
@@ -53,19 +54,19 @@ medium: medium
 # lanyrd: mylanyrd
 email: oliviersgf@gmail.com
 
-authors:
-    johndoe:
-        name: Wenjin Situ
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+# authors:
+#     johndoe:
+#         name: Wenjin Situ
+#         bio: A Man who travels the world eating noodles
+#         external-image: false
+#         picture: assets/images/profile.jpg
+#         twitter: johndoe
+#     jamesfoster:
+#         name: James Foster
+#         bio: A Man who develops software with coffee
+#         external-image: false
+#         picture: assets/images/james.jpg
+#         twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
