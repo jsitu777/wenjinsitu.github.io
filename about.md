@@ -29,18 +29,8 @@ engineering. Currently he is working on modular technology for multi-family proj
 
 <ul>
 
-##Videos
-
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
 
-<video width="320" height="240" controls>
-  <source src="assets/Videos/Construction Video.mp4" type="video/mp4">
-</video>
-
-
-<iframe width="560" height="310" Video src= "assets/Videos/Construction Video.mp4" frameborder="0" allowfullscreen>
-
-</iframe>
 
 
 	<!-- <li><a href="https://github.com/">Lorem Lorem</a></li>
