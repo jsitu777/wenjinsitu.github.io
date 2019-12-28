@@ -1,16 +1,9 @@
 ---
 title: About
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- components
-- extra
-category: blog
 author: Wenjin Situ
-description: Markdown summary with different options
+
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
@@ -35,7 +28,17 @@ engineering. Currently he is working on modular technology for multi-family proj
 <h2>Projects</h2>
 
 <ul>
-<iframe width="560" height="310" src= "assets/Videos/Construction Video.mp4" frameborder="0" allowfullscreen></iframe>
+
+##Videos
+
+<video width="320" height="240" controls>
+  <source src="assets/Videos/Construction Video.mp4" type="video/mp4">
+</video>
+
+
+<iframe width="560" height="310" Video src= "assets/Videos/Construction Video.mp4" frameborder="0" allowfullscreen>
+
+</iframe>
 
 
 	<!-- <li><a href="https://github.com/">Lorem Lorem</a></li>
