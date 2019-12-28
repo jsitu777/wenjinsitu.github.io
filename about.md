@@ -27,7 +27,6 @@ engineering. Currently he is working on modular technology for multi-family proj
 
 <h2>Projects</h2>
 
-<ul>
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="{{ site.url }}/{{ site.projectPicture }}" alt="Alt Text">
