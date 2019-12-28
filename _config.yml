@@ -9,6 +9,8 @@ description: A blog for professional presentation
 # better with square images
 external-image: false
 picture: assets/images/Jim.jpg
+projectPicture: assets/images/Franklin Tower.jpg
+
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
