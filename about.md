@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: About
 layout: post
 headerImage: false
 author: Wenjin Situ
@@ -28,8 +28,17 @@ engineering. Currently he is working on modular technology for multi-family proj
 <h2>Projects</h2>
 
 <ul>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/{{ site.projectPicture }}" alt="Alt Text">
+        <figcaption class="caption">Copy right @ RAD</figcaption>
+    </div>
 
-<img class="image" src="{{ site.url }}/{{ site.projectPicture }}"
+    <div class="toright">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+</div>
+
 
 
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
