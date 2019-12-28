@@ -1,8 +1,6 @@
 # main text of home
 name: Wenjin (Jim) Situ
-bio: Jim is a structural engineer in San Francisco. He received his bachelor degree
-from UC San Diego and his master degree from Stanford University, both in structural
-engineering. Currently he is working on modular technology for multi-family projects.
+bio: Jim is a structural engineer in San Francisco.
 
 # twitter summary info
 description: A blog for professional presentation
@@ -15,7 +13,7 @@ picture: assets/images/Jim.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: assets/PDFs/Wenjin(Jim) Situ's CV.pdf
 
 url: http://wenjinsitu.github.io/
@@ -109,8 +107,8 @@ plugins:
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+# jekyll-mentions:
+#     base_url: https://github.com
 
 compress_html:
     ignore:
