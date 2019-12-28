@@ -29,10 +29,7 @@ engineering. Currently he is working on modular technology for multi-family proj
 
 <ul>
 
-![Markdowm Image][1]
-
-[1]: assets/images/Jim.jpg
-
+<img class="image" src="{{ site.url }}/{{ site.projectPicture }}"
 
 
 <iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
