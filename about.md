@@ -40,4 +40,4 @@ engineering. Currently he is working on modular technology for multi-family proj
 
 
 
-<iframe width="560" height="310" src="https://youtu.be/aN_l4VfM4WE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aN_l4VfM4WE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
