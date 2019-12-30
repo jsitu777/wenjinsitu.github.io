@@ -9,14 +9,28 @@ description: A blog for professional presentation
 # better with square images
 external-image: false
 picture: assets/images/Jim.jpg
-projectPicture: assets/images/Franklin Tower.jpg
+FranklinProjectPictureTower: assets/images/Franklin Tower.jpg
+FranklinProjectPictureTomehome: assets/images/Franklin Townhome.jpg
+FranklinPBD: assets/Projects/Franklin PBD.png
+FranklinETABS: assets/Projects/Franklin ETABS.png
+FranklinEnergy: assets/Projects/Franklin PBD Energy.png
+T2ProjectPicture: assets/images/5110 Telegraph.jpg
+#Video
+ConstructionVideo: assets/Videos/Construction Video.mp4
+
+
+#PDFs
+CEE280-url: assets/PDFs/Structural Analysis MATLAB OOP implementation.pdf
+PBL-url: assets/PDFs/Island 2016 Spring.pdf
+CEE385-url: assets/PDFs/Final Report_JLWS.pdf
+CEE307-url: assets/PDFs/ProjectReport_WSLL.pdf
 
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/PDFs/Wenjin(Jim) Situ's CV.pdf
+resume-url: assets/PDFs/Wenjin(Jim) Situ's CV_condensed.pdf
 
 url: http://wenjinsitu.github.io/
 
@@ -77,12 +91,9 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-projects: false
-
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
