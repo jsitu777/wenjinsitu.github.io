@@ -16,8 +16,11 @@ description: Markdown summary with different options
 ## Overview
 
 
-<iframe src="{{ site.url }}/{{ site.PBL-url}}" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
+<img class="image" src="{{ site.url }}/{{ site.PBLGroupPicture }}">
+<img class="image" src="{{ site.url }}/{{ site.PBLFinalPicture }}">
+<p>
+For more information, visit: http://pbl.stanford.edu/AEC%20projects/projpage.htm
+</p>
 
 
 ---

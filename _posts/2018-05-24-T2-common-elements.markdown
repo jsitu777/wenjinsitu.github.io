@@ -14,7 +14,7 @@ description: Markdown summary with different options
 ---
 
 ## Overview
-<iframe width="560" height="315" src="{{ site.url }}/{{ site.ConstructionVideo }}" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aN_l4VfM4WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img class="image" src="{{ site.url }}/{{ site.T2ProjectPicture }}">
 

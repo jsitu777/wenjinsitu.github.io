@@ -15,6 +15,12 @@ FranklinPBD: assets/Projects/Franklin PBD.png
 FranklinETABS: assets/Projects/Franklin ETABS.png
 FranklinEnergy: assets/Projects/Franklin PBD Energy.png
 T2ProjectPicture: assets/images/5110 Telegraph.jpg
+PBLGroupPicture: assets/images/PBL Group Pic.jpg
+PBLFinalPicture: assets/images/PBL Final.jpg
+FactoryPicture: assets/images/Factory.jpg
+FranklinTowerStructure: assets/images/Franklin Tower.png
+FranklinTownhomeStructure: assets/images/Franklin Townhome.png
+
 #Video
 ConstructionVideo: assets/Videos/Construction Video.mp4
 

@@ -23,6 +23,10 @@ integrated AEC entity inspired to productize the built environment in the multi-
 <img class="image" src="{{ site.url }}/{{ site.FranklinProjectPictureTower }}">
 <img class="image" src="{{ site.url }}/{{ site.FranklinProjectPictureTomehome }}">
 
+## Structural System
+<img class="image" src="{{ site.url }}/{{ site.FranklinTowerStructure }}">
+<img class="image" src="{{ site.url }}/{{ site.FranklinTomehomeStructure }}">
+
 
 
 ## Performance Based Design
