@@ -17,6 +17,7 @@ description: Markdown summary with different options
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aN_l4VfM4WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img class="image" src="{{ site.url }}/{{ site.T2ProjectPicture }}">
+<img class="image" src="{{ site.url }}/{{ site.FactoryPicture }}">
 
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
