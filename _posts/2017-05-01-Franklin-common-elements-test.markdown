@@ -25,7 +25,7 @@ integrated AEC entity inspired to productize the built environment in the multi-
 
 ## Structural System
 <img class="image" src="{{ site.url }}/{{ site.FranklinTowerStructure }}">
-<img class="image" src="{{ site.url }}/{{ site.FranklinTomehomeStructure }}">
+<img class="image" src="{{ site.url }}/{{ site.FranklinTownhomeStructure }}">
 
 
 
