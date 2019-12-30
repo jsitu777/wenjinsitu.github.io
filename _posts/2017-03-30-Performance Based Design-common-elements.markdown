@@ -14,9 +14,6 @@ description: Markdown summary with different options
 ---
 
 ## Overview
-
-
-
 <embed src="{{ site.url }}/{{ site.CEE385-url}}" width="500" height="375"
  type="application/pdf">
 
