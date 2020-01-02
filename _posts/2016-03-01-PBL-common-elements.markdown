@@ -14,6 +14,8 @@ description: Markdown summary with different options
 ---
 
 ## Overview
+<p>PBL is a global interdisciplinary design collaboration class in which the students complete the design of an educational building in an intense two-quarter timeline. The design team conducted weekly meetings considering different time zones. Students from European institutes came to Stanford in the final week and made the presentation as a team.  </p>
+
 
 <img class="image" src="{{ site.url }}/{{ site.PBLGroupPicture }}">
 <img class="image" src="{{ site.url }}/{{ site.PBLFinalPicture }}">

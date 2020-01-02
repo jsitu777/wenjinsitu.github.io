@@ -14,7 +14,7 @@ description: Markdown summary with different options
 ---
 
 ## Overview
-<p>5110 Telegraph is a 6 story multi-family project in Oakland. Its lateral system consists of Buckling Resisting Braced Frame and its gravity system utilizes pre-fabricated volumetric modules. I mainly work on the CA phase for the project. The building has been topped out in Aug 2019. </p>
+<p>5110 Telegraph is a 6 story multi-family project in Oakland. Its lateral system consists of Buckling Resisting Braced Frame and its gravity system utilizes pre-fabricated volumetric modules. I mainly work on the Construction Administration phase for the project. The building has been topped out in Aug 2019. </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aN_l4VfM4WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
