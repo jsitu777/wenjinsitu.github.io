@@ -13,13 +13,15 @@ author: WS
 description: Markdown summary with different options
 ---
 
-<p> I joined RAD Urban right after grad school as a structural engineer. RAD Urban is a vertically
+<p> Jim joined RAD Urban right after grad school as a structural engineer. RAD Urban is a vertically
 integrated AEC entity inspired to productize the built environment in the multi-family project sector.
 </p>
 
 
 
 ## Overview
+<p>2044 Franklin is a 30 story mixed used high rise in Oakland. Its lateral system is steel plate shear wall while its gravity system from level 6 utilizes pre-fabricated volumetric modules. The design process involves performance based design with a peer review panel, as well as full scale seismic testing. </p>
+
 <img class="image" src="{{ site.url }}/{{ site.FranklinProjectPictureTower }}">
 <img class="image" src="{{ site.url }}/{{ site.FranklinProjectPictureTomehome }}">
 
