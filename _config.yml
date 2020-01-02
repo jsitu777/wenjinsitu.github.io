@@ -1,5 +1,5 @@
 # main text of home
-name: Wenjin (Jim) Situ
+name: Wenjin (Jim) Situ,PE
 bio: Jim is a structural engineer in San Francisco.
 
 # twitter summary info
@@ -20,6 +20,19 @@ PBLFinalPicture: assets/images/PBL Final.png
 FactoryPicture: assets/images/Factory.JPG
 FranklinTowerStructure: assets/images/Franklin Tower Stucture.png
 FranklinTownhomeStructure: assets/images/Franklin Townhome Structure.png
+Peerreview: assets/Projects/Peer Review Panel.png
+DiaghramTesting: assets/Full Scale Testing/DiaghramTesting.png
+ColumnTestingStrongAxis: assets/Full Scale Testing/Column Testing Strong Axis.png
+ColumnTestingWeakAxis: assets/Full Scale Testing/Column Testing Weak Axis.png
+ConnectionTesting: assets/Full Scale Testing/Connection Testing.jpg
+Soccer: assets/images/Soccer.jpg
+OptimizedStructure: assets/images/Optimized Structure.jpg
+OptimizedStructureClass: assets/images/structural optimization class.jpg
+ARUP_ETABS_Model: assets/ARUP/ETABS Model Project.jpg
+ARUP_CCTV: assets/ARUP/CCTV.jpg
+ARUP_on_site: assets/ARUP/ARUP on site visit.jpg
+ARUP_Beijing: assets/ARUP/ARUP Beijing.jpg
+ARUP_Project: assets/ARUP/Project Financial Center.jpg
 
 #Video
 ConstructionVideo: assets/Videos/Construction Video.mp4
