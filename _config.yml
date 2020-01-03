@@ -3,7 +3,7 @@ name: Wenjin (Jim) Situ,PE
 bio: Jim is a Stanford trained structural engineer with experience in pre-fabricated volumetric modular
 housing and performance based seismic design. He has involved in all phases of project development from conception
 to completion. Jim is also involved in incorporating computer programing for data processing and design automation
-in practice. 
+in practice.
 
 # twitter summary info
 description: A blog for professional presentation
@@ -24,28 +24,32 @@ FactoryPicture: assets/images/Factory.JPG
 FranklinTowerStructure: assets/images/Franklin Tower Stucture.png
 FranklinTownhomeStructure: assets/images/Franklin Townhome Structure.png
 Peerreview: assets/Projects/Peer Review Panel.png
-DiaghramTesting: assets/Full Scale Testing/DiaghramTesting.png
-ColumnTestingStrongAxis: assets/Full Scale Testing/Column Testing Strong Axis.png
-ColumnTestingWeakAxis: assets/Full Scale Testing/Column Testing Weak Axis.png
+DiaghramTesting: assets/images/Full Scale Testing/Diaghram Test 2.png
+ColumnTestingStrongAxis: assets/images/Full Scale Testing/Column Testing Strong Axis.png
+ColumnTestingWeakAxis: assets/images/Full Scale Testing/Column Testing Weak Axis.png
 ConnectionTesting: assets/Full Scale Testing/Connection Testing.jpg
 Soccer: assets/images/Soccer.jpg
 OptimizedStructure: assets/images/Optimized Structure.jpg
 OptimizedStructureClass: assets/images/structural optimization class.jpg
-ARUP_ETABS_Model: assets/ARUP/ETABS Model Project.jpg
-ARUP_CCTV: assets/ARUP/CCTV.jpg
-ARUP_on_site: assets/ARUP/ARUP on site visit.jpg
-ARUP_Beijing: assets/ARUP/ARUP Beijing.jpg
-ARUP_Project: assets/ARUP/Project Financial Center.jpg
+ARUP_ETABS_Model: assets/images/ARUP/ETABS Model Project.jpg
+ARUP_CCTV: assets/images/ARUP/CCTV.jpg
+ARUP_on_site: assets/images/ARUP/ARUP on site visit.jpg
+ARUP_Beijing: assets/images/ARUP/ARUP Beijing.jpg
+ARUP_Project: assets/images/ARUP/Project Financial Center.jpg
+PBD_Annual_Loss: assets/images/Classes/Annual Loss.jpg
+PBD_Collapse: assets/images/Classes/Collapse Deaggregation Curve.jpg
+PBD_ExpectedLoss: assets/images/Classes/Expected Loss.jpg
+PBD_Fragility: assets/images/Classes/Fragility Curve.jpg
+PBD_GUI: assets/images/Classes/GUI Interface.jpg
+PBD_Cost: assets/images/Classes/Replacement Cost.jpg
+Bill: assets/images/Classes/Bill Baker.jpg
 
 #Video
 ConstructionVideo: assets/Videos/Construction Video.mp4
 
 
 #PDFs
-CEE280-url: assets/PDFs/Structural Analysis MATLAB OOP implementation.pdf
 PBL-url: assets/PDFs/Island 2016 Spring.pdf
-CEE385-url: assets/PDFs/Final Report_JLWS.pdf
-CEE307-url: assets/PDFs/ProjectReport_WSLL.pdf
 
 
 # If you want to include your resume, set to true
