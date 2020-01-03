@@ -14,7 +14,8 @@ description: Markdown summary with different options
 ---
 
 ## Overview
-<p> I joined Arup's Beijing office as an intern in 2014 summer. My main task was to model the geometry of the China World Trade Center Tower 3, while helping with various tasks under the supervision of a senior engineer.</p>
+<p> I interned at Arup in 2014 summer. I completed the ETABS geometry modeling of the China World Trade Center Tower 3, while helping with various design tasks under the supervision of a senior engineer.</p>
+
 
 <img class="image" src="{{ site.url }}/{{ site.ARUP_Beijing }}">
 <img class="image" src="{{ site.url }}/{{ site.ARUP_ETABS_Model }}">
