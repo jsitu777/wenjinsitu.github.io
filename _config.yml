@@ -21,8 +21,8 @@ FactoryPicture: assets/images/Factory.JPG
 FranklinTowerStructure: assets/images/Franklin Tower Stucture.png
 FranklinTownhomeStructure: assets/images/Franklin Townhome Structure.png
 Peerreview: assets/Projects/Peer Review Panel.png
-DiaghramTesting: assets/images/Full Scale Testing/Diaghram Test 2.png
-ColumnTestingStrongAxis: assets/images/Full Scale Testing/Column Testing Strong Axis.png
+DiaghramTesting: assets/images/Full Scale Testing/Diaghram Test.jpg
+Pushing: assets/images/Full Scale Testing/Pushing.png
 ColumnTestingWeakAxis: assets/images/Full Scale Testing/Column Testing Weak Axis.png
 ConnectionTesting: assets/Full Scale Testing/Connection Testing.jpg
 Soccer: assets/images/Soccer.jpg

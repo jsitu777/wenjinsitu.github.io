@@ -36,7 +36,7 @@ description: Markdown summary with different options
 ## Peer Review and Full Scale Testing
 <img class="image" src="{{ site.url }}/{{ site.Peerreview }}">
 <img class="image" src="{{ site.url }}/{{ site.DiaghramTesting }}">
-<img class="image" src="{{ site.url }}/{{ site.ColumnTestingStrongAxis }}">
+<img class="image" src="{{ site.url }}/{{ site.Pushing }}">
 <img class="image" src="{{ site.url }}/{{ site.ColumnTestingWeakAxis }}">
 <img class="image" src="{{ site.url }}/{{ site.ConnectionTesting }}">
 
