@@ -1,5 +1,5 @@
 ---
-title: School Project_Structural Design Optimization_Stanford
+title: Structural Design Optimization Stanford
 layout: post
 date: 2016-12-8 20:44
 #mage: /assets/images/markdown.jpg

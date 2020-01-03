@@ -1,5 +1,5 @@
 ---
-title: ARUP Internship in Beijing China
+title: ARUP Internship
 layout: post
 date: 2014-06-30 22:44
 #mage: /assets/images/markdown.jpg
@@ -8,7 +8,7 @@ tag:
 - markdown
 - elements
 star: true
-category: blog
+category:
 author: Wenjin Situ
 description: Markdown summary with different options
 ---

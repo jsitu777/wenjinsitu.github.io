@@ -1,5 +1,5 @@
 ---
-title: School Project_PBL Global Teamwork_Stanford
+title: PBL Global Teamwork Stanford
 layout: post
 date: 2016-03-30 22:44
 #mage: /assets/images/markdown.jpg

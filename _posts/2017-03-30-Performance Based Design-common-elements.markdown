@@ -1,5 +1,5 @@
 ---
-title: School Project_Performance Based Design Framework_Stanford
+title: Performance Based Design Framework Stanford
 layout: post
 date: 2017-03-30 22:44
 #mage: /assets/images/markdown.jpg
