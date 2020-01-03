@@ -15,6 +15,10 @@ description: Markdown summary with different options
 
 ## Overview
 <p>The final project was to develop a computer tool in Matlab to compute some quantitative measures of seismic performance such as: the expected annual loss of the building with the implementation of performance based framework.</p>
+
+<p>In the project, I successfully implemented the state of the art performance based risk analysis programing with Matlab. </p>
+
+
 <img class="image" src="{{ site.url }}/{{ site.PBD_GUI }}">
 <img class="image" src="{{ site.url }}/{{ site.PBD_Collapse }}">
 <img class="image" src="{{ site.url }}/{{ site.PBD_Annual_Loss }}">
