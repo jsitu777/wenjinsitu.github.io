@@ -8,7 +8,7 @@ author: Wenjin Situ
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-<p>Jim was intrigued by the skyline in Hong Kong as a child, and he was inspired to design one after he grew up. He came to the U.S. as an exchange high school student in LA at the age of 17. Jim received his bachelor degree from UC San Diego and his master degree from Stanford University, both in structural engineering. Jim is a registered PE in California.</p>
+<p>Jim was intrigued by the skyline in Hong Kong as a child, and he was inspired to design one after he grew up. He came to the U.S. as a high school exchange student in LA at the age of 17. Jim received his bachelor degree from UC San Diego and his master degree from Stanford University, both in structural engineering. Jim is a registered PE in California.</p>
 
 <h2>Proficient Softwares</h2>
 

@@ -5,8 +5,6 @@ date: 2014-06-30 22:44
 #mage: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
 star: true
 category: blog
 author: Wenjin Situ

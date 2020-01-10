@@ -1,6 +1,6 @@
 # main text of home
-name: Wenjin (Jim) Situ,PE
-bio: Jim is a Stanford trained structural engineer with experience in pre-fabricated volumetric modular housing and performance based seismic design. He has involved in all phases of project development from conception to completion. Jim is also involved in incorporating computer programing for data processing and design automation in practice.
+name: Wenjin (Jim) Situ, PE
+bio: Jim is a Stanford trained structural engineer with experience in pre-fabricated volumetric modular housing and performance based seismic design. He has experience in all phases of project development from conception to completion. Jim is also involved in incorporating computer programing for data processing and design automation in practice.
 
 # twitter summary info
 description: A blog for professional presentation
@@ -21,7 +21,7 @@ FactoryPicture: assets/images/Factory.JPG
 FranklinTowerStructure: assets/images/Franklin Tower Stucture.png
 FranklinTownhomeStructure: assets/images/Franklin Townhome Structure.png
 Peerreview: assets/Projects/Peer Review Panel.png
-DiaghramTesting: assets/images/Full Scale Testing/Diaghram Test.jpg
+DiaghramTesting: assets/images/Full Scale Testing/Diaghram Test 2.png
 Pushing: assets/images/Full Scale Testing/Pushing.png
 ColumnTestingWeakAxis: assets/images/Full Scale Testing/Column Testing Weak Axis.png
 ConnectionTesting: assets/Full Scale Testing/Connection Testing.jpg
