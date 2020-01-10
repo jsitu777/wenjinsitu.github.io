@@ -18,6 +18,8 @@ description: Markdown summary with different options
 
 <p>I was involved in the construction administration phase for the project, conducting weekly site visit, answering RFIs, and completing the deferred components of the design. The building has been topped out in Aug 2019. </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZlZBzAkrAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aN_l4VfM4WE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img class="image" src="{{ site.url }}/{{ site.T2ProjectPicture }}">
