@@ -8,7 +8,7 @@ description: A blog for professional presentation
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Jim.jpg
+picture: assets/images/wenjin-7.jpg
 FranklinProjectPictureTower: assets/images/Franklin Tower.jpg
 FranklinProjectPictureTomehome: assets/images/Franklin Townhome.jpg
 FranklinPBD: assets/Projects/Franklin PBD.png
